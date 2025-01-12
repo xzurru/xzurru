@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+# Hi there 👋
+- 🪧 My name is xzurru
+- 💻 Full Stack Developer
+- 📞 Discord: [zurrumod](https://discord.gg/zurrumod)
+
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,javascript,sass)](https://skillicons.dev)
+
+
 <!--
 **xzurru/xzurru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
