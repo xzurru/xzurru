@@ -6,7 +6,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,javascript,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,java,python)](https://skillicons.dev)
 
 
 <!--
