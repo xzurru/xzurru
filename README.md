@@ -1,8 +1,8 @@
 
 # Hi there 👋
-- 🪧 My name is xzurru
-- 💻 Full Stack Developer
-- 📞 Discord: [zurrumod](https://discord.gg/zurrumod)
+- 🪧 My name is peda
+- 💻 Developer Web/api/py
+- 💀 ocsystem owner
 
 ## My Skills
 
